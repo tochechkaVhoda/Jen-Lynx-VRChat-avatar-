@@ -1,0 +1,60 @@
+**Cute and sexy furry avatar fully prepared for import into VRChat.**
+Avatar is designed for PC-only and suitable for use with or without full-body tracking.
+
+All avatar features(link)
+
+Main avatar info:
+Jen Lynx has the features you'd expect:
+
+original character
+PC-only
+Medium VRChat avatar rank
+
+Unity's default Humanoid rig
+supports all Humanoid animations 
+Full-body tracking
+
+Eye-tracking + blinking
+full Shape Keys based Visemes / Lip-sync
+4 original Facial Expressions (happy, angry, sad and horny) controlled from the Round menu
+8 standart Body Expressions controlled from the Round menu
+
+dynamics with PhysBones in hair, ears, tail and buttocks
+
+fully modeled internal body (for cloth or hair modifications) 
+
+finalized and loaded with VRChat SDK3
+has been tested with and without full-body tracking
+completely ready for installation Unity package
+
+Avatar details:
+mesh created in Blender (body and hair) and Marvelous Designer (cloth)
+12k polygons, 23k triangles
+clean topology, clean unwrapped UV
+3 separate meshes (body, hair and cloth) for easy modifications
+
+textures created in Substance Painter and finalized in Photoshop
+4 set of texture maps: Albedo, MetallicSmoothness, Emission (4k and 2k resolution)
+4 materials use Standard Unity Shader
+
+avatar contains a humanoid rig with additional bones for dynamics
+82 bones 
+4 chains of bones for PhysBones
+
+avatar has Shape Keys
+15 for full base Visemes / Lip-sync
+4 for Facial Expressions
+1 for blink
+
+Unitypackage contains:
+avatar model JenLynx.fbx
+Textures folder with 4 paks of textures in 4k and 2k resolution
+Materials folder with 4 materials
+Expressions folder with Facial Animations and settings to include them in the Round menu
+prefab JenLynx.prefab
+demo-scene JenLynxScene.unity 
+and also a folder ReleaseBackground with a beautiful background that you can set before uploading the avatar to VRChat (see setup manual)
+
+Files also contain:
+photoshop file allTextureMaps.psd with texture maps, decomposed into layers. 
+files for Sketchfab preview: JenLynxSketchfabPreview.blend and texturesPreview. These files are only previews, use the beautiful JenLynx.unitypackage to load into VRChat.
